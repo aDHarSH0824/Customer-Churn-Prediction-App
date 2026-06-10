@@ -120,6 +120,3 @@ The Streamlit application includes 5 comprehensive sections:
 3.  **Service Configuration:** Dynamic input selection of phone and internet services, online security, backup, tech support, and streaming.
 4.  **Billing & Contract sliders:** Inputs for contract type, paperless billing, payment method, monthly charges, and total charges.
 5.  **Predictive Model Output:** A visual probability bar gauge, custom success/warning cards, and tabs showing the comparative model charts, SHAP summary explanations, and EDA plots.
-
-## 🖼️ Application Screenshots
-*(Screenshots will appear here once you deploy the application and capture them. Visual outputs are saved inside the `plots/` folder)*
